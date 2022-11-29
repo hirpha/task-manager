@@ -1,16 +1,21 @@
-# task_manager
+## Task manager mobile application
 
-A new Flutter project.
+This project provide a ways of managing projects and teams
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+its main functionality:
 
-A few resources to get you started if this is your first Flutter project:
+1. Adding project
+2. Tracking task/project progress
+3. Delegating work to team members / Distribute Tasks Across Your Team
+4. Setting deadlines
+5. Track issues 
+6. Adjusting work schedules
+7. Notification (When users assigned a task)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/60286731/204546769-4aa5ffe6-9b0c-4119-bfb5-bcfaf5eec97f.png)
+![image](https://user-images.githubusercontent.com/60286731/204547036-d418db42-2fe5-45f8-b3e5-2d353edc7add.png)
+![image](https://user-images.githubusercontent.com/60286731/204547100-93c232df-d3ac-48d6-ad84-7027f6bfcfff.png)
+![image](https://user-images.githubusercontent.com/60286731/204547177-00113a79-8d8b-4561-a683-c6341b28ba1b.png)
+![image](https://user-images.githubusercontent.com/60286731/204547270-91aa567a-e168-46a4-a448-2bf44b8867f2.png)
